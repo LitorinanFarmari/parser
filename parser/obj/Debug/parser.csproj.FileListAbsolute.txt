@@ -1,0 +1,6 @@
+C:\Users\ossiv\source\repos\parser\parser\bin\Debug\parser.exe.config
+C:\Users\ossiv\source\repos\parser\parser\bin\Debug\parser.exe
+C:\Users\ossiv\source\repos\parser\parser\bin\Debug\parser.pdb
+C:\Users\ossiv\source\repos\parser\parser\obj\Debug\parser.csprojAssemblyReference.cache
+C:\Users\ossiv\source\repos\parser\parser\obj\Debug\parser.exe
+C:\Users\ossiv\source\repos\parser\parser\obj\Debug\parser.pdb
